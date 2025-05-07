@@ -1,0 +1,4 @@
+bot/ 
+.venv/ 
+db.json 
+.env 
